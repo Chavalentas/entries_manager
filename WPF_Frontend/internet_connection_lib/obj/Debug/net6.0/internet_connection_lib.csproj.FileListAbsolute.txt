@@ -1,0 +1,13 @@
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\bin\Debug\net6.0\internet_connection_lib.deps.json
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\bin\Debug\net6.0\internet_connection_lib.dll
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\bin\Debug\net6.0\internet_connection_lib.pdb
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.csproj.AssemblyReference.cache
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.AssemblyInfoInputs.cache
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.AssemblyInfo.cs
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.csproj.CoreCompileInputs.cache
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.dll
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\refint\internet_connection_lib.dll
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.pdb
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\ref\internet_connection_lib.dll
+C:\GitRepos\entries_manager\WPF_Frontend\internet_connection_lib\obj\Debug\net6.0\internet_connection_lib.sourcelink.json

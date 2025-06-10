@@ -1,0 +1,1072 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\updateentryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\updateentryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\profilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\profilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\addentryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\addentryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\updateentrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\updateentrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\services\\entriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\services\\entriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\viewmodel\\entryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\viewmodel\\entryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\addentrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\addentrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpresponses\\entryresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpresponses\\entryresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpresponses\\messageresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpresponses\\messageresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\updateentryrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\updateentryrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\createentryrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\createentryrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\addentrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\addentrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\updateentrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\updateentrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\jsontokenserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\jsontokenserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpresponses\\useridresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpresponses\\useridresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\ongobackrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\ongobackrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onloggedoutusereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onloggedoutusereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onchangeprofilerequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onchangeprofilerequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onupdateentryeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onupdateentryeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onviewentryrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onviewentryrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onaddentryrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onaddentryrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\oninformationeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\oninformationeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\validators\\passwordvalidators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\validators\\passwordvalidators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\validators\\ruleset\\ensuretextregexrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\validators\\ruleset\\ensuretextregexrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\validators\\ruleset\\ensuremintextlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\validators\\ruleset\\ensuremintextlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\validators\\passwordvalidators\\ipasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\validators\\passwordvalidators\\ipasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ACF245-5B09-4D4B-8888-54A805FA3052}|internet_connection_lib\\internet_connection_lib.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\internet_connection_lib\\connectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ACF245-5B09-4D4B-8888-54A805FA3052}|internet_connection_lib\\internet_connection_lib.csproj|solutionrelative:internet_connection_lib\\connectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ACF245-5B09-4D4B-8888-54A805FA3052}|internet_connection_lib\\internet_connection_lib.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\internet_connection_lib\\iconnectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ACF245-5B09-4D4B-8888-54A805FA3052}|internet_connection_lib\\internet_connection_lib.csproj|solutionrelative:internet_connection_lib\\iconnectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\validators\\ruleset\\ensuretextlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\validators\\ruleset\\ensuretextlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\exceptions\\validatorexceptions\\invalidtextregexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\exceptions\\validatorexceptions\\invalidtextregexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\exceptions\\validatorexceptions\\invalidtextlengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\exceptions\\validatorexceptions\\invalidtextlengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\validators\\ruleset\\itextrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\validators\\ruleset\\itextrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\itokenserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\itokenserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onloggedinusereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onloggedinusereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onoccurrederroreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onoccurrederroreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onloginrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onloginrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\eventarguments\\onreqisterrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\eventarguments\\onreqisterrequesteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\images\\return_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\images\\return_image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\commands\\genericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\commands\\genericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpresponses\\userresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpresponses\\userresponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\updatepasswordrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\updatepasswordrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\updateuserrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\updateuserrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\registeruserrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\registeruserrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpresponses\\tokenreponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpresponses\\tokenreponsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\loginuserrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\loginuserrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\httpbodies\\verifyrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\httpbodies\\verifyrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\exceptions\\unsuccessfulhttpoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\exceptions\\unsuccessfulhttpoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\config\\backendconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\config\\backendconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|c:\\gitrepos\\entries_manager\\wpf_frontend\\wpf_frontend\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C90096-0868-4405-AF87-7D957BF4B888}|WPF_Frontend\\WPF_Frontend.csproj|solutionrelative:wpf_frontend\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\LoginWindow.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "WPF_Frontend\\View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T19:53:28.244Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\ProfileVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\ProfileVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\ProfileVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\ProfileVM.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAAAHsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:57:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileWindow.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\ProfileWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\ProfileWindow.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\ProfileWindow.xaml",
+              "RelativeToolTip": "WPF_Frontend\\View\\ProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T17:45:33.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\DashboardVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\DashboardVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\DashboardVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\DashboardVM.cs",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAAAFgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:57:03.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEntryVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\AddEntryVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\AddEntryVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\AddEntryVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\AddEntryVM.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAiwMAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:06:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEntryVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\UpdateEntryVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\UpdateEntryVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\UpdateEntryVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\UpdateEntryVM.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:07:18.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\LoginVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:55:47.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:55:59.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEntryWindow.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\UpdateEntryWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\UpdateEntryWindow.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\UpdateEntryWindow.xaml",
+              "RelativeToolTip": "WPF_Frontend\\View\\UpdateEntryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T11:06:31.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Services\\UsersService.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Services\\UsersService.cs",
+              "RelativeToolTip": "WPF_Frontend\\Services\\UsersService.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAjwKsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:54:33.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\ProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\ProfileWindow.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\ProfileWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\View\\ProfileWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T22:29:15.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardWindow.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\DashboardWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\DashboardWindow.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\DashboardWindow.xaml",
+              "RelativeToolTip": "WPF_Frontend\\View\\DashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T17:45:54.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntriesService.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Services\\EntriesService.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Services\\EntriesService.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Services\\EntriesService.cs",
+              "RelativeToolTip": "WPF_Frontend\\Services\\EntriesService.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAjwI4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:54:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\User.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\User.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:36:12.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntryVM.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\EntryVM.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\ViewModel\\EntryVM.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\ViewModel\\EntryVM.cs",
+              "RelativeToolTip": "WPF_Frontend\\ViewModel\\EntryVM.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwFQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T22:54:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEntryWindow.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\AddEntryWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\AddEntryWindow.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\AddEntryWindow.xaml",
+              "RelativeToolTip": "WPF_Frontend\\View\\AddEntryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T11:06:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntryResponseBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\EntryResponseBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPResponses\\EntryResponseBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\EntryResponseBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPResponses\\EntryResponseBody.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:00:59.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MessageResponseBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\MessageResponseBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPResponses\\MessageResponseBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\MessageResponseBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPResponses\\MessageResponseBody.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:13:11.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateEntryRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\UpdateEntryRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\UpdateEntryRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\UpdateEntryRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\UpdateEntryRequestBody.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:57:13.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateEntryRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\CreateEntryRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\CreateEntryRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\CreateEntryRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\CreateEntryRequestBody.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:49:56.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddEntryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\AddEntryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\AddEntryWindow.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\AddEntryWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\View\\AddEntryWindow.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAowBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T22:45:55.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateEntryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\UpdateEntryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\UpdateEntryWindow.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\UpdateEntryWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\View\\UpdateEntryWindow.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:21:13.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\RegisterWindow.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\RegisterWindow.xaml",
+              "RelativeToolTip": "WPF_Frontend\\View\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T17:45:17.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\View\\DashboardWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:17:01.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\App.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\App.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\App.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAewEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:58:26.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\View\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:53:26.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JsonTokenSerializer.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\JsonTokenSerializer.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\JsonTokenSerializer.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\JsonTokenSerializer.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\JsonTokenSerializer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:47:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserIdResponseBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\UserIdResponseBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPResponses\\UserIdResponseBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\UserIdResponseBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPResponses\\UserIdResponseBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:11:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\View\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\View\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Frontend\\View\\RegisterWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:06:00.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_Frontend\\App.xaml",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\App.xaml",
+              "RelativeToolTip": "WPF_Frontend\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T17:46:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Entry.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Entry.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Entry.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Entry.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:03:19.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OnGoBackRequestEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnGoBackRequestEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnGoBackRequestEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnGoBackRequestEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnGoBackRequestEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:44:47.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OnLoggedOutUserEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnLoggedOutUserEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnLoggedOutUserEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnLoggedOutUserEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnLoggedOutUserEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:09:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OnChangeProfileRequestEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnChangeProfileRequestEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnChangeProfileRequestEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnChangeProfileRequestEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnChangeProfileRequestEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:09:02.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OnUpdateEntryEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnUpdateEntryEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnUpdateEntryEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnUpdateEntryEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnUpdateEntryEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:09:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OnViewEntryRequestEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnViewEntryRequestEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnViewEntryRequestEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnViewEntryRequestEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnViewEntryRequestEventArgs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:11:15.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OnAddEntryRequestEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnAddEntryRequestEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnAddEntryRequestEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnAddEntryRequestEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnAddEntryRequestEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:09:42.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OnInformationEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnInformationEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnInformationEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnInformationEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnInformationEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:58:50.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EnsureMinTextLengthRule.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureMinTextLengthRule.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureMinTextLengthRule.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureMinTextLengthRule.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureMinTextLengthRule.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAjwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:19:37.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\PasswordValidators\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Validators\\PasswordValidators\\PasswordValidator.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\PasswordValidators\\PasswordValidator.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Validators\\PasswordValidators\\PasswordValidator.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAjwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:09:54.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IPasswordValidator.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\PasswordValidators\\IPasswordValidator.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Validators\\PasswordValidators\\IPasswordValidator.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\PasswordValidators\\IPasswordValidator.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Validators\\PasswordValidators\\IPasswordValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:09:34.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EnsureTextRegexRule.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextRegexRule.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextRegexRule.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextRegexRule.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextRegexRule.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAewDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:03:39.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Connectivity.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\internet_connection_lib\\Connectivity.cs",
+              "RelativeDocumentMoniker": "internet_connection_lib\\Connectivity.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\internet_connection_lib\\Connectivity.cs",
+              "RelativeToolTip": "internet_connection_lib\\Connectivity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:12:25.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IConnectivity.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\internet_connection_lib\\IConnectivity.cs",
+              "RelativeDocumentMoniker": "internet_connection_lib\\IConnectivity.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\internet_connection_lib\\IConnectivity.cs",
+              "RelativeToolTip": "internet_connection_lib\\IConnectivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:09:55.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EnsureTextLengthRule.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextLengthRule.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextLengthRule.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextLengthRule.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Validators\\RuleSet\\EnsureTextLengthRule.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:59:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InvalidTextRegexException.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextRegexException.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextRegexException.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextRegexException.cs",
+              "RelativeToolTip": "WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextRegexException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:00:48.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InvalidTextLengthException.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextLengthException.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextLengthException.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextLengthException.cs",
+              "RelativeToolTip": "WPF_Frontend\\Exceptions\\ValidatorExceptions\\InvalidTextLengthException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:00:22.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ITextRule.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\ITextRule.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Validators\\RuleSet\\ITextRule.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Validators\\RuleSet\\ITextRule.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Validators\\RuleSet\\ITextRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:56:23.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ITokenSerializer.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\ITokenSerializer.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\ITokenSerializer.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\ITokenSerializer.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\ITokenSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:09:11.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OnLoggedInUserEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnLoggedInUserEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnLoggedInUserEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnLoggedInUserEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnLoggedInUserEventArgs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:13:35.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Token.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Model\\Token.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Model\\Token.cs",
+              "RelativeToolTip": "WPF_Frontend\\Model\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:05:44.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OnOccurredErrorEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnOccurredErrorEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnOccurredErrorEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnOccurredErrorEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnOccurredErrorEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:56:12.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OnLoginRequestEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnLoginRequestEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnLoginRequestEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnLoginRequestEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnLoginRequestEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:06:28.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OnReqisterRequestEventArgs.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnReqisterRequestEventArgs.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\EventArguments\\OnReqisterRequestEventArgs.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\EventArguments\\OnReqisterRequestEventArgs.cs",
+              "RelativeToolTip": "WPF_Frontend\\EventArguments\\OnReqisterRequestEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:53:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "return_image.png -  [English (United States)] - PNG [2048x1866, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Images\\return_image.png",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Images\\return_image.png",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Images\\return_image.png -  [English (United States)] - PNG [2048x1866, 32 bit, PNG]",
+              "RelativeToolTip": "WPF_Frontend\\Images\\return_image.png -  [English (United States)] - PNG [2048x1866, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-05T22:37:56.74Z",
+              "EditorCaption": " -  [English (United States)] - PNG [2048x1866, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GenericCommand.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Commands\\GenericCommand.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Commands\\GenericCommand.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Commands\\GenericCommand.cs",
+              "RelativeToolTip": "WPF_Frontend\\Commands\\GenericCommand.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:50:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginUserRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\LoginUserRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\LoginUserRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\LoginUserRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\LoginUserRequestBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:16:48.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "VerifyRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\VerifyRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\VerifyRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\VerifyRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\VerifyRequestBody.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:11:03.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UnsuccessfulHttpOperationException.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Exceptions\\UnsuccessfulHttpOperationException.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Exceptions\\UnsuccessfulHttpOperationException.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Exceptions\\UnsuccessfulHttpOperationException.cs",
+              "RelativeToolTip": "WPF_Frontend\\Exceptions\\UnsuccessfulHttpOperationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:07:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BackendConfig.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Config\\BackendConfig.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\Config\\BackendConfig.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\Config\\BackendConfig.cs",
+              "RelativeToolTip": "WPF_Frontend\\Config\\BackendConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:04:52.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserResponseBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\UserResponseBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPResponses\\UserResponseBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\UserResponseBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPResponses\\UserResponseBody.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:40:52.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdatePasswordRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\UpdatePasswordRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\UpdatePasswordRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\UpdatePasswordRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\UpdatePasswordRequestBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:36:44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateUserRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\UpdateUserRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\UpdateUserRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\UpdateUserRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\UpdateUserRequestBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:31:08.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TokenReponseBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\TokenReponseBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPResponses\\TokenReponseBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPResponses\\TokenReponseBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPResponses\\TokenReponseBody.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:17:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RegisterUserRequestBody.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\RegisterUserRequestBody.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\HTTPBodies\\RegisterUserRequestBody.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\HTTPBodies\\RegisterUserRequestBody.cs",
+              "RelativeToolTip": "WPF_Frontend\\HTTPBodies\\RegisterUserRequestBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:11:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPF_Frontend\\AssemblyInfo.cs",
+              "ToolTip": "C:\\GitRepos\\entries_manager\\WPF_Frontend\\WPF_Frontend\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPF_Frontend\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:58:25.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
